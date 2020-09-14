@@ -1,0 +1,25 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/mlj/.pub-cache/hosted/pub.dartlang.org/fixnum-0.10.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "protobuf",
+      "rootUri": "file:///Users/mlj/.pub-cache/hosted/pub.dartlang.org/protobuf-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "addressbook",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-09-14T09:20:25.793871Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.2"
+}
